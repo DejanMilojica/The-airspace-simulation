@@ -1,0 +1,10 @@
+Putnicki Avion#Boeing 737#12800#Brzina Letenja 876km/h, Lete do: 42 000 stopa
+Transportni Avion#Antonov An-225#15400#Brzina Letenja 800km/h, Broj motora: 6
+ProtivPozarni Avion#Kanader CL-215#4450#Brzina Letenja 291km/h, Broj motora: 2
+Putnicki Helikopter#Bell 427#3048#Brzina Letenja 260km/h
+Transportni Helikopter#Mi-26#6500#Brzina Letenja 200km/h, Maksimalna Masa: 55 000kg
+Protiv Pozarni Helikopter#Kanader CL-100#4000#Brzina Letenja 180km/h, Lete do: 42 000 stopa
+Bespilotna Letjelica#Boeing 737#12800#Brzina Letenja 876km/h, Lete do: 42 000 stopa
+Lovac#MiG-31#10800#Brzina Letenja 1200km/h
+Strani Vojni Avion#MiG-25#10800#Brzina Letenja 1200km/h
+Bombarder#B-2 Spirit#11100#Brzina Krstarenja 850km/h, Tezina praznog aviona: 56 700kg

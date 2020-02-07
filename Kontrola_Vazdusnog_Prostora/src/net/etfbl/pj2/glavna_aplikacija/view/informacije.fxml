@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="396.0" prefWidth="361.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="404.0" fitWidth="368.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../SLIKE/Header.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="404.0" fitWidth="368.0" layoutY="198.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../SLIKE/Header.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="23.0" layoutY="6.0" prefHeight="44.0" prefWidth="316.0" text="Informacije:" textFill="#fcfcfc">
+         <font>
+            <Font name="Book Antiqua" size="30.0" />
+         </font>
+      </Label>
+      <Label alignment="TOP_LEFT" layoutX="28.0" layoutY="65.0" prefHeight="324.0" prefWidth="332.0" text="Radarska Aplikacija, razvijena u skolopu projekta iz predmeta Programski Jezici 2! Realizator: Dejan Milojica" textFill="#fcfcfc" wrapText="true">
+         <font>
+            <Font name="Book Antiqua" size="22.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

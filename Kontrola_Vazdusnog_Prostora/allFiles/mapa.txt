@@ -1,0 +1,6 @@
+ProtivPozarni Avion#Kanader CL-215#6#4450#Brzina Letenja 291km/h, Broj motora: 2#0#13
+Putnicki Avion#Boeing 737#5#12800#Brzina Letenja 876km/h, Lete do: 42 000 stopa#1#6
+ProtivPozarni Avion#Kanader CL-215#4#4450#Brzina Letenja 291km/h, Broj motora: 2#3#3
+ProtivPozarni Avion#Kanader CL-215#3#4450#Brzina Letenja 291km/h, Broj motora: 2#4#6
+ProtivPozarni Helikopter#Kanader CL-100#1#4000#Brzina Letenja 180km/h, Lete do: 42 000 stopa#9#1
+Transportni Helikopter#Mi-26#2#6500#Brzina Letenja 200km/h, Maksimalna Masa: 55 000kg#11#10
